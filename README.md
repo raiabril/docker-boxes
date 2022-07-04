@@ -1,2 +1,2 @@
-# flask-docker-boxes
-Some useful flask servers ready to launch in docker for penetration testing purposes.
+# docker-boxes
+Some useful apps and servers ready to launch in docker for penetration testing purposes.
