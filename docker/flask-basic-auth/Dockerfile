@@ -8,4 +8,4 @@ COPY ./src /app
 
 WORKDIR /app
 
-CMD ["python", "/app/app.py"]
+CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]
